@@ -9,7 +9,6 @@ Bu proje, Amerikan borsasında yer alan hisselerin ElasticSearch ile indekslenme
 * **ASP.NET Core 8.0**
 * **Entity Framework Core** (Code First - SQL Server)
 * **ElasticSearch** (Arama altyapısı)
-* **Razor Pages** (Basit frontend)
 * **Swagger UI** (API test ve dökümantasyon)
 
 ---
